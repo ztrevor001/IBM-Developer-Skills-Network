@@ -1,2 +1,2 @@
 # IBM-Skills-Network-Development
-Stores projects I have done through IBM on Coursera. 
+Stores hands-on labs I have done through IBM on Coursera. 
